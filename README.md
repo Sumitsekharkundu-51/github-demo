@@ -1,4 +1,4 @@
 # github-demo
 This is my first Git Repository.
 <br>
-Author-Sumit Sekhar
+Author-Sumit Sekhar (kundu)
